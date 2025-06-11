@@ -1,8 +1,9 @@
 # AIssue
 ## Team MaiNova 소개
-@c99-dev(최성호)
-@gnxm37(민유진)
+@c99-dev(최성호) 
+@gnxm37(민유진)  
 @Pracrobo(김지은) 
+@Soberanalysts(나상현) 
 
 ## 주요 기능
 - GitHub 로그인 지원
