@@ -21,8 +21,7 @@
 
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/0583c709-6a17-4eeb-9700-c580df0ff1a8)
 
 
 ## ERD 
-![AIssue_ERD_version2](https://github.com/user-attachments/assets/450e683f-c478-42a6-b522-27eb25b4b6f1)
-
