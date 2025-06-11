@@ -26,3 +26,4 @@
 
 
 ## ERD 
+<img width="1000" alt="AIssue ERD" src="https://github.com/user-attachments/assets/d55e8678-4499-4fdb-ac17-36aa7b3cc1a6" />
