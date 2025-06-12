@@ -26,5 +26,6 @@
 
 
 ## ERD 
-![AIssue](https://github.com/user-attachments/assets/b3630c45-5602-48fb-afce-6f6f5b722640)
+![image (1)](https://github.com/user-attachments/assets/c49a7554-92bb-4a44-a010-9cf657ecc403)
+
 
