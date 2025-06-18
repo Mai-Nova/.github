@@ -28,4 +28,6 @@
 ## ERD 
 ![image (1)](https://github.com/user-attachments/assets/c49a7554-92bb-4a44-a010-9cf657ecc403)
 
+## 발표 PPT
+[Uploading 3team-AIssue 발표자료 PDF.pdf…]()
 
