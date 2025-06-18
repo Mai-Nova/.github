@@ -30,3 +30,6 @@
 
 ## 발표 PPT
 (https://github.com/Mai-Nova/.github/blob/main/profile/3team-AIssue%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20PDF.pdf)
+
+## 시연 영상
+(https://www.youtube.com/watch?v=URrpV-prqmw)
