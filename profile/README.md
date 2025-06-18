@@ -29,7 +29,7 @@
 ![image (1)](https://github.com/user-attachments/assets/c49a7554-92bb-4a44-a010-9cf657ecc403)
 
 ## 발표 PPT
-(https://github.com/Mai-Nova/.github/blob/main/profile/3team-AIssue%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20PDF.pdf)
+[PPT](https://github.com/Mai-Nova/.github/blob/main/profile/3team-AIssue%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20PDF.pdf)
 
 ## 시연 영상
-(https://www.youtube.com/watch?v=ps95XQiVXHI)
+[시연영상-Youtube](https://www.youtube.com/watch?v=ps95XQiVXHI)
