@@ -29,5 +29,5 @@
 ![image (1)](https://github.com/user-attachments/assets/c49a7554-92bb-4a44-a010-9cf657ecc403)
 
 ## 발표 PPT
-[Uploading 3team-AIssue 발표자료 PDF.pdf…]()
+<img width="100%" src="https://github.com/Mai-Nova/.github/blob/main/profile/3team-AIssue%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20PDF.pdf"/>
 
